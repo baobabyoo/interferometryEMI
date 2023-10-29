@@ -8,6 +8,13 @@ But I know I can feel free to share these material on my webpage; you can also w
 If you would like to modify or directly re-use the material, you may need to consult them, although I also do not know how.
 Please feel free to contact me regarding this. I can help you consult them. 
 
+This is a preliminary version of the first half of the material.
+There may be something wrong.
+If you see that, it would be very much appreciated if you would like me know.
+I will correct it.
+
+(2023.Oct.29)
+
 ### Videos
 
 #### Chapter 1
