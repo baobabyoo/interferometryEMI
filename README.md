@@ -1,5 +1,12 @@
 # interferometryEMI
-My EMI lecture of radio interferometry at National Sun Yat-sen University (NSYSU)
+
+I am Hauyu Baobab Liu, an associate professor at the Department of Physics of National Sun Yat-sen University, More details about me can be found [here](https://baobabyoo.github.io/),
+Here is my EMI lecture of radio interferometry at National Sun Yat-sen University (NSYSU)
+To my understanding, I have sold the material I am sharing to the Ministry of Education (i.e., they own the license).
+I have a quite poor understanding about such legal issues, unfortunately.
+But I know I can feel free to share these material on my webpage; you can also watch and share them for free.
+If you would like to modify or directly re-use the material, you may need to consult them, although I also do not know how.
+Please feel free to contact me regarding this. I can help you consult them. 
 
 ### Videos
 
