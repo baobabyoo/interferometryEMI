@@ -51,5 +51,5 @@ I will correct it.
 - 5.5 [Error recognition](https://drive.google.com/file/d/1xVB9Ws3811B57J6QL6q0do2HuPQyZPWu/view?usp=drive_link)
 
 #### Chapter 6
-- 6.1 Proposal preparation (under construction)
-- 6.2 How proposals will be reviewed (under construction)
+- 6.1 [Proposal preparation](https://drive.google.com/file/d/1AjsqInNkRA5Ke8pQJ4K6qAZPLHfvSrTH/view?usp=drive_link)
+- 6.2 [How proposals will be reviewed](https://drive.google.com/file/d/1TL0v6MHjhzPTCOvjmI1jNcFnhYE3Xqbc/view?usp=drive_link)
