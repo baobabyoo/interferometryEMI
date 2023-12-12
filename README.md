@@ -6,7 +6,7 @@ To my understanding, I have sold the material I am sharing to the Ministry of Ed
 I have a quite poor understanding about such legal issues, unfortunately.
 But I know I can feel free to share these material on my webpage; you can also watch and share them for free.
 If you would like to modify or directly re-use the material, you may need to consult them, although I also do not know how.
-Please feel free to contact me regarding this. I can help you consult them. 
+Please feel free to contact me regarding this. I can help you consult them.
 
 This is a preliminary version of the first half of the material.
 There may be something wrong.
@@ -35,3 +35,21 @@ I will correct it.
 - 3.2 [Response of a 2-element interferometer](https://drive.google.com/file/d/1CZIzGGkwVql9cSsybc8kivlXkHp7AmW3/view?usp=drive_link)
 - 3.3 [Complex visibility (1D)](https://drive.google.com/file/d/1d16uW9qkwAU2mRsQBuSuWdk3CYJRpNj6/view?usp=drive_link)
 - 3.4 [Complex visibility (2D)](https://drive.google.com/file/d/1_Qk9Go8GI9cfoC9E5697zFRhADEltPXv/view?usp=drive_link)
+
+#### Chapter 4
+- 4.1 [Diffraction grating](https://drive.google.com/file/d/1HATHUnFyrDKWNsv46XX8tMpyCFABXZIg/view?usp=drive_link)
+- 4.2 [Complex visibilities of an interferometric array](https://drive.google.com/file/d/1QvcegdTvpUGw6YIffqaSB4W9k2PDqldF/view?usp=drive_link)
+- 4.3 [Inversion of complex visibility](https://drive.google.com/file/d/1xTwdjbm4pX7HkT0azwBSIK1i5pPMpyrc/view?usp=drive_link)
+- 4.4 [Generalized sampling function](https://drive.google.com/file/d/1y7qoSSfMi4kCtmjDPaYXNQCOz8zndSuG/view?usp=drive_link)
+- 4.5 [Clean algorithm and other imaging algorithms](https://drive.google.com/file/d/1gmKILv9vvC49Of2y-nWQiC2oiWiO-jjd/view?usp=drive_link)
+
+#### Chapter 5
+- 5.1 [An overview for interferometric data calibration](https://drive.google.com/file/d/1oKk5ExJ7dUSyyEGS8SLsgDeEj7pBdbVX/view?usp=drive_link)
+- 5.2 [Atmospheric effect](https://drive.google.com/file/d/1j6myq3DBnJ8sLvyZDYcjZMdAGjYpUNFW/view?usp=drive_link)
+- 5.3 [System temperature](https://drive.google.com/file/d/1sr-JOVt2N_L6WMXrbeI3uywdHQcSge0b/view?usp=drive_link)
+- 5.4 [Passband and complex gain calibration](https://drive.google.com/file/d/1MvCrCUMyap2LOb88nx9KvRjIO86pcH_i/view?usp=drive_link)
+- 5.5 [Error recognition](https://drive.google.com/file/d/1xVB9Ws3811B57J6QL6q0do2HuPQyZPWu/view?usp=drive_link)
+
+#### Chapter 6
+- 6.1 Proposal preparation (under construction)
+- 6.2 How proposals will be reviewed (under construction)
