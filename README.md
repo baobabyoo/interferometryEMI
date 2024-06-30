@@ -15,6 +15,10 @@ I will correct it.
 
 (2023.Oct.29)
 
+I have shared my slides in the *slides* folder. Please contact me if you need the .pptx files.
+
+(2024.June.30)
+
 ### Videos
 
 #### Chapter 1
